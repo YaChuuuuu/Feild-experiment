@@ -5,7 +5,8 @@
 2021 四月 至 2021 年九月，每個月收一次數據 (生長指標與病害指數)，一個處理組別 30 個植株 (3\*3\*30=270)
 
 
-## Raw data 整理: 田間試驗.ipynb
+## Raw data 整理
+田間試驗.ipynb
 
 ## 綜合實驗數據、氣候資訊以及植株實驗組的數據
 https://app.powerbi.com/view?r=eyJrIjoiMGZmNDk2Y2MtN2Q0ZS00ZjBmLWJkNzEtZWRkZmIwN2ViZGViIiwidCI6Ijk1Y2U2MTk5LWNhMzYtNDgyMC04N2MzLWQ1NDBjODYwMjcwYyIsImMiOjEwfQ%3D%3D&pageName=ReportSection
