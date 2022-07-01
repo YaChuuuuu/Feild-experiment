@@ -8,5 +8,8 @@
 ## Raw data 整理
 田間試驗資料轉換.ipynb
 
+## 整理至 SQL 資料庫
+田間試驗
+
 ## 綜合實驗數據、氣候資訊以及植株實驗組的數據
 https://app.powerbi.com/view?r=eyJrIjoiMGZmNDk2Y2MtN2Q0ZS00ZjBmLWJkNzEtZWRkZmIwN2ViZGViIiwidCI6Ijk1Y2U2MTk5LWNhMzYtNDgyMC04N2MzLWQ1NDBjODYwMjcwYyIsImMiOjEwfQ%3D%3D&pageName=ReportSection
